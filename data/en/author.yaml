@@ -12,11 +12,11 @@ image: "images/author/profile.jpg"
  
 # Información de contacto
 contactInfo:
-  email: "correo@gmail.com"
-  phone: "5512345678"
+  email: "julian.cis@yahoo.com"
+  phone: "55 4938 6911"
   linkedin:
     icon: linkedin
-    url: "link de linkedin"
+    url: "https://www.linkedin.com/in/juli%C3%A1n-cisneros-716157257"
     text: "Texto"
  
  
