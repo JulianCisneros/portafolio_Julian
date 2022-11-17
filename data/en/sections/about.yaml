@@ -1,6 +1,6 @@
 # Información de la sección
 section:
-  name: Holaaa
+  name: About
   id: about
   enable: true
   weight: 1
@@ -13,7 +13,7 @@ designation: Engineering in Computational Technologies
 # Información de tu compañía / Escuela
 company:
   name: Tec de Monterrey.
-  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+  url: "https://tec.mx/es/computacion-y-tecnologias-de-informacion/ingeniero-en-tecnologias-computacionales"
  
 # Tu CV
 resume: "files/cv.pdf"
